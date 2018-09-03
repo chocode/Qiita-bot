@@ -1,3 +1,5 @@
 /.env
 /__pycache__
 /plugins/__pycache__
+/manual/*.xml
+/memo
